@@ -1,1 +1,1 @@
-console.log('protected file')
+console.log('protected file');
